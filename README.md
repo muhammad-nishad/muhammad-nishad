@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Nishad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **ShareIt Full stack project**
-
-- 🌱 I’m currently learning **React.js**
+- 🔭 I’m currently working as a **Full Stack Developer**
 
 - 👯 I’m looking to collaborate on **node js and React js projects**
 
-- 💬 Ask me about **Nodejs,Mongodb and Reactjs**
+- 💬 Ask me about **MERN stack**
 
 - 📫 Reach me on Liked in **https://www.linkedin.com/in/muhammad-nishad-p-k/**
 
